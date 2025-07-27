@@ -1,0 +1,15 @@
+
+# File môi trường và Docker
+.env
+node_modules
+.Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Các file tài liệu không cần push
+README.md
+PROJECT_DOCUMENTATION.md
+READMEERROR.md
+Method.md
+MongoDB_Connect_Inside_Container.md
+MongoDB_Connect_Using_Mongosh.md
